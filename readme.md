@@ -1,7 +1,20 @@
-# Master App
+# Application Files
 
-The intention of this App is to be used as a starting point for custom apps.
+In order for the application to run, you need the following files:
 
-## Installation
+- **application.php**
 
-ZIP the "masterapp" folder content and install trough [ZOO App Install Manager](http://www.yootheme.com/zoo/documentation/getting-started/install-a-new-app).
+This is the core php class that extends the base Application class.
+Usually it's just a simple class naming
+
+- **application.xml*
+
+Contains the properties and configuration options of the application
+
+- **application.png**
+
+Application icon
+
+- **application_info.png**
+
+Icon displayed in the information page of the application
